@@ -1,0 +1,19 @@
+7.0.0.0 - JIRA Plugins -- System Plugin
+
+System study, Plugin study & Workflow study: 14tu Nov & 15th Nov - 2 days
+Upgrade Dev: 22nd,23rd and 24th Nov - 3 Days
+
+Train the trainer: 2 Days
+25th & 28th
+1st half -- dedicated to Delhi team
+Post lunch -- all the teams (25th second half and then on 28th full day)
+
+29th & 30th -- UAT Demo (2 Days)
+
+1st & 2nd Dec 2016 -- UAT (2 Days)
+
+3rd & 4th -- Production Server (2 days)
+
+Sanity checks on 4th Night (1 day)
+
+5th Dec -- 

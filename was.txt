@@ -1,0 +1,23 @@
+
+Part number - D55W8LL 
+Part description - IBM WebSphere Application Server Processor Value Unit (PVU) License + SW Subscription & Support 12 Months 
+
+Country/region/currency - India / Indian Rupee 
+
+Price effective date - 01 Jan 2016 to 31 Dec 2016 
+
+SVP
+BL 4,158.30 
+D 3,659.30 
+E 3,605.50 
+F 3,572.24 
+G 3,551.01 
+H 3,534.73 
+I* 3,318.14 
+J* 3,310.36 
+ED 1,663.32 
+GV 3,534.73 
+Points:     0.27 
+
+
+********************************

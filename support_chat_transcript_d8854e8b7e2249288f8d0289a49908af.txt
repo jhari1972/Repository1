@@ -1,0 +1,156 @@
+----------------------------------------------------------
+Date: 2016-11-09 05:33:25 MST
+To: All Customers
+From: Bomgar
+	A secure encrypted SSL connection has been established.
+----------------------------------------------------------
+Date: 2016-11-09 05:33:49 MST
+To: All Customers
+From: Bomgar
+	Thank you for contacting Technical Support.
+A representative will be with you shortly. Please keep in mind that responses may be delayed outside business hours.
+----------------------------------------------------------
+Date: 2016-11-09 05:34:34 MST
+To: All Customers
+From: Bomgar
+	This session has been transferred to Vincent Codd.
+----------------------------------------------------------
+Date: 2016-11-09 05:35:09 MST
+To: Everyone
+From: HarishJayaram
+	Hello
+----------------------------------------------------------
+Date: 2016-11-09 05:35:18 MST
+To: Everyone
+From: HarishJayaram
+	Hi Vincent
+----------------------------------------------------------
+Date: 2016-11-09 05:35:30 MST
+To: Everyone
+From: HarishJayaram
+	Harish Jayaram from Devtools, Bangalore
+----------------------------------------------------------
+Date: 2016-11-09 05:35:43 MST
+To: Everyone
+From: HarishJayaram
+	Have a small query on Serena Version Manager
+----------------------------------------------------------
+Date: 2016-11-09 05:35:58 MST
+To: Everyone
+From: Vincent Codd
+	Hi there. Can you please let me know your 12 digit serial number?
+----------------------------------------------------------
+Date: 2016-11-09 05:36:34 MST
+To: Everyone
+From: HarishJayaram
+	We are the partners for Serena in India
+----------------------------------------------------------
+Date: 2016-11-09 05:36:45 MST
+To: Everyone
+From: HarishJayaram
+	I don't have that right now
+----------------------------------------------------------
+Date: 2016-11-09 05:37:10 MST
+To: Everyone
+From: HarishJayaram
+	One of our customer is looking for help on upgrading version manager 6.7 to 8.5
+----------------------------------------------------------
+Date: 2016-11-09 05:37:30 MST
+To: Everyone
+From: HarishJayaram
+	Would you be able to help me understand whether this is feasible
+----------------------------------------------------------
+Date: 2016-11-09 05:37:46 MST
+To: Everyone
+From: HarishJayaram
+	Also wanted to know whether version 6.7 is still supported by Serena
+----------------------------------------------------------
+Date: 2016-11-09 05:38:26 MST
+To: Everyone
+From: Vincent Codd
+	Concerning the supported releases you can find all the details here: http://support.serena.com/ProductNews/displayLinkedDoc.aspx?f=/ProductNews/Product_News_Content/Linked_Documents/Version_Manager/Version_Manager_Products_and_Versions.html.xml
+----------------------------------------------------------
+Date: 2016-11-09 05:39:00 MST
+To: Everyone
+From: Vincent Codd
+	End of Development for 6.7 was 2003-Feb so it's a very old release
+----------------------------------------------------------
+Date: 2016-11-09 05:40:01 MST
+To: Everyone
+From: HarishJayaram
+	If someone need to upgrade this, is this feasible?
+----------------------------------------------------------
+Date: 2016-11-09 05:40:16 MST
+To: Everyone
+From: HarishJayaram
+	may be subsequent upgrades?
+----------------------------------------------------------
+Date: 2016-11-09 05:40:31 MST
+To: Everyone
+From: HarishJayaram
+	multiple upgrades?
+----------------------------------------------------------
+Date: 2016-11-09 05:40:52 MST
+To: Everyone
+From: Vincent Codd
+	As far a I know it is possible. All upgrade instructions are in the Installation Guide.
+----------------------------------------------------------
+Date: 2016-11-09 05:42:30 MST
+To: Everyone
+From: HarishJayaram
+	Can the customer opts for upgrade and then support/maintenance from Serena
+----------------------------------------------------------
+Date: 2016-11-09 05:42:44 MST
+To: Everyone
+From: Vincent Codd
+	I'm not sure what you mean...
+----------------------------------------------------------
+Date: 2016-11-09 05:43:16 MST
+To: Everyone
+From: HarishJayaram
+	Wanted to know whether Serena allows them to bu Support/maintenance
+----------------------------------------------------------
+Date: 2016-11-09 05:43:39 MST
+To: Everyone
+From: HarishJayaram
+	*Buy Support/Maintenance
+----------------------------------------------------------
+Date: 2016-11-09 05:44:04 MST
+To: Everyone
+From: HarishJayaram
+	Since this is a very old case and the customer is now coming back with a request for Upgrade support
+----------------------------------------------------------
+Date: 2016-11-09 05:44:55 MST
+To: Everyone
+From: Vincent Codd
+	If they want access to the latest release of VM and the ability to raise cases and contact support they will need to have current maintenance. That would be something you would need to speak with the renewals team about.
+----------------------------------------------------------
+Date: 2016-11-09 05:45:21 MST
+To: Everyone
+From: HarishJayaram
+	ok. got it.
+----------------------------------------------------------
+Date: 2016-11-09 05:45:39 MST
+To: Everyone
+From: HarishJayaram
+	we need to contact renewals team
+----------------------------------------------------------
+Date: 2016-11-09 05:45:50 MST
+To: Everyone
+From: HarishJayaram
+	thanks Vincent
+----------------------------------------------------------
+Date: 2016-11-09 05:45:58 MST
+To: Everyone
+From: Vincent Codd
+	Not a problem. Have a good day.
+----------------------------------------------------------
+Date: 2016-11-09 05:46:01 MST
+To: Everyone
+From: HarishJayaram
+	This is really helpful
+----------------------------------------------------------
+Date: 2016-11-09 05:46:06 MST
+To: Everyone
+From: HarishJayaram
+	same to you
